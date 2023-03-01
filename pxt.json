@@ -1,5 +1,6 @@
 {
     "name": "collabProject(Davis2)",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*"
